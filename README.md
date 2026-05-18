@@ -1,3 +1,6 @@
+## System Diagram
+
+![System Diagram](images/system-diagram.png)
 ![Arduino](https://img.shields.io/badge/Arduino-IoT-blue)
 ![ESP32](https://img.shields.io/badge/ESP32-Embedded-green)
 ![C++](https://img.shields.io/badge/C++-Programming-orange)
