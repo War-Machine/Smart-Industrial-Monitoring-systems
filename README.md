@@ -1,3 +1,10 @@
+![Arduino](https://img.shields.io/badge/Arduino-IoT-blue)
+![ESP32](https://img.shields.io/badge/ESP32-Embedded-green)
+![C++](https://img.shields.io/badge/C++-Programming-orange)
+![IoT](https://img.shields.io/badge/IoT-Industrial-red)
+
+
+
 # Smart-Industrial-Monitoring-systems
 IoT based industrial monitoring system using sensors, Arduino/ESP32 and real time monitoring dashboard 
 
